@@ -1,6 +1,7 @@
 # Stats:
 ![trophy](https://github-profile-trophy.vercel.app/?username=SnoozedsGithub&theme=radical)
-![trophy](https://github-readme-stats-sabesansathananthan.vercel.app/api/top-langs/?username=SnoozedsGithub&layout=compact&theme=radical)
+![langs](https://github-readme-stats-sabesansathananthan.vercel.app/api/top-langs/?username=SnoozedsGithub&layout=compact&theme=radical)\
+![Stats](https://github-readme-stats.vercel.app/api?username=SnoozedsGithub&theme=radical)
 
  # Things I use:
 <div class="vl"></div> 
